@@ -1,1 +1,1 @@
-Repository for the INvenTree metadataset of publications on tree-based invetories in India
+Repository for the INvenTree metadataset of publications on plot-based tree inventories in India

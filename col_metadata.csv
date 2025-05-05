@@ -1,0 +1,24 @@
+﻿colname,Description
+paperID,Unique paper ID
+Article.Title,Article title
+DOI,DOI
+Pub_Year,Year
+Source.Title,Journal name
+Authors,Author list
+latitude_site_decimal,latitude of the site/ plot centroid
+longitude_site_decimal,longitude of the site/ plot centroid
+Open_access,Open access or not
+Data_access,Was data at least at the plot level reported in the SI or mentioned as a link to a repo
+survey,checklist vs plot-based
+tot_area,area of all plots together in km2
+BIOME_NAME,BIOME NAME from Dinerstein
+ECO_NAME,Ecoregion name form Dinerstein
+biome_keep,QC flag; whether this row was included for biome-level summaries (0 if multiple biomes covered in a single study or unresolved biome)
+area_keep,QC flag; whether this row was included for area summaries (0 if repeat dataset or checklist)
+district_keep,QC flag; whether this row was included for district-wise summaries (0 if study spans multiple districts)
+cor.lat,corresponding author latitude
+cor.long,corresponding author longitude
+cor.country,corresponding author country
+dists,distance between corresponding author location and plot centroid in km
+tot.auth,total number of authors
+prop.India,proportion of authors with Indian affiliations
